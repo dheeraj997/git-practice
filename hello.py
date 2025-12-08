@@ -1,0 +1,1 @@
+print(""" there was slight isuue in in main code so why not replace it here""")
